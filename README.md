@@ -35,7 +35,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="www.linkedin.com/in/thomas-feyerl-82494b298" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="I'm Thomas.'s LinkedIn"/></a> <a href="mailto:t.feyerl@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="I'm Thomas.'s Email"/></a> <a href="https://tfutureweb.at/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
+<p align="left"> <a href="https://linkedin.com/in/thomas-feyerl-82494b298" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="I'm Thomas.'s LinkedIn"/></a> <a href="mailto:t.feyerl@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="I'm Thomas.'s Email"/></a> <a href="https://tfutureweb.at/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
